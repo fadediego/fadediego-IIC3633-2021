@@ -10,7 +10,6 @@ Un tema que me llamó bastante la atención (y que de hecho lo comentó posterio
 
 Me gustó la mención que se le hace a los *ratings* implícitos, que siempre me han llamado la atención, y que se dice que utilizan ampliamente hoy en día las redes sociales. Si bien no se adentra tanto en el tema, hay que tener en consideración que el *paper* es del año 2007, por lo que ahora deben existir capacidades de almacenamiento mucho mayores para guardar información extra del comportamiento de los usuarios.
 
-Finalmente, se menciona en el texto que en la época de publicación una nueva tendencia de los sistemas recomendadores era mencionar el por qué de las recomendaciones realizadas, como por ejemplo por qué se recomienda una cierta película a un usuario. Creo que si bien en tiendas *online* esta información está disponible,  me parece que en redes sociales falta transparentar el origen de las publicaciones que aparecen en *feed*.
+Finalmente, se menciona en el texto que en la época de publicación una nueva tendencia de los sistemas recomendadores era mencionar el por qué de las recomendaciones realizadas, como por ejemplo por qué se recomienda una cierta película a un usuario. Creo que si bien en tiendas *online* esta información está disponible,  me parece que en redes sociales falta transparentar el origen de las publicaciones que aparecen en el *feed*.
 
-
-
+Como conclusión, el texto leído me pareció una buena introducción al filtrado colaborativo. Creo que, más allá de introducir una idea innovadora sobre el tema, los autores apuntaban a realizar una revisión de los puntos principales de los CF; logrando buenos resultados. Sería interesante leer una actualización del texto, incluyendo los principales avances de la última quincena.
