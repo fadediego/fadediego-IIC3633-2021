@@ -1,0 +1,15 @@
+# Content-Based Recommendation Systems
+
+La lectura de esta semana corresponde al *paper* de Pazzani y Billsus, titulado *Content-Based Recommendation Systems* (2003). En términos generales, el trabajo me parece una buena **introducción** y fácil de seguir. Además, me agrada que incluya múltiples conceptos de *Natural Language Processing* (NLP), tales como distintas formas de generar *embeddings* de texto no estructurado, clasificadores de texto (como el famoso Naive Bayes), entre otros. Como dato personal, la razón por la que me motiva dicho área de *Machine Learning*, es debido a que tuve que trabajar con la Corte Suprema en llevar a cabo un clasificador automático de sentencias.
+
+Uno de los temas del texto que me llamó la atención, debido a que lo desconocía, es el algoritmo Ripper, relacionado a los árboles de decisión. De lo que pude investigar en un medio digital relacionado a *blogs* de Machine Learning (Medium [1]), el nombre RIPPER viene de *Repeated Incremental Pruning to Produce Error Reduction* y tiene la particularidad de ser igual o mejor que los árboles de decisión para clasificación de texto. Si bien en el *paper* mencionan que puede competir con el estado del arte (al menos de esa época (2003)), creo que el texto pudo haber sido mucho más sólido al describir el algoritmo. De hecho, se le dedica un solo párrafo, de mediana extensión. Me parece que los autores lo mencionan por cumplir, más que por querer informar de manera correcta sobre el algoritmo.
+
+Por otro lado, un tema que me llamó positivamente la atención es el algoritmo de Rocchio, el cual también desconocía. Me parece interesante que se entregue una fórmula sobre la cual opera el algoritmo, pero se mencione que no hay justificación teórica que avale la fórmula, ni que indique una posible convergencia del algoritmo. Más bien, son los experimentos prácticos los que dan peso al algoritmo.
+
+Es interesante notar que, producto de la antiguedad del trabajo, no se mencionan tecnologías más recientes de NLP, tales como generar *embeddings* a partir de *Transformers*, los cuales de seguro superan varias de las tecnologías del *paper*. De todas formas, lo anterior permite conocer técnicas predecesoras del *Deep Learning*, las cuales son muchas veces la base teórica de lo actual.
+
+En resumen, como aspecto positivo del trabajo, destaco el hecho de que presenta tecnologías que desconocía (RIPPER y *Rochio's algorithm*), las cuales de seguro pueden ser un buen método comparativo para los modelos actuales. Además, me gusta que hable de NLP, puesto que es un tema que me motiva personalmente. Por otra parte, como aspecto negativo, me parece que el texto es demasiado simple y muy superficial, haciendo un resumen demasiado breve de prácticamente todos los temas que trata. Me hubiera gustado que los autores ahondaran en los algoritmos mencionados, de manera tal de que el *paper* fuera auto-contenido (pese a que esto implicara posiblemente una extensión mayor).
+
+
+Referencias:
+[1] Shirish Sonvane, *The RIPPER Algorithm*, 2020.
